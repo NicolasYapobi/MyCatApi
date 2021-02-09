@@ -9,3 +9,12 @@ h1{
 .introduction {
     color: red;
 }
+
+.logo {
+    float: left;
+    padding-left: 10px;
+}
+
+.logoimg {
+    width: 55px;
+}
