@@ -1,3 +1,3 @@
-function countButton() {
-    document.getElementById("link").innerHTML = "You clicked !";
+function changeImage(){
+    document.getElementById('cat').src="ressources/cat1.jpg";
 }
