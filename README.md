@@ -1,5 +1,5 @@
-# MyCatApi
-Website which repertoriate cats with an API
+# MySiteHairDressing
+Website which repertoriate hairdressing with an API
 
 Website in HTML/CSS and JS
 
